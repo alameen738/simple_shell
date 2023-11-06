@@ -5,7 +5,7 @@
  * @ac: arg counts
  * @av: arg vector
  *
- * Return: 0 when success, 1 if error
+ * Return: 0 when success, 1 if error.
  */
 int main(int ac, char **av)
 {
